@@ -44,9 +44,9 @@ You can also check out the contributing guidelines (https://github.com/username/
 
 ## Emojis
 
-We love open source! Let's build something amazing together!
+We love open source! Let's build something amazing together! :heart:
 
-Feel free to contribute and don't forget to star the repo! 
+Feel free to contribute and don't forget to star the repo! :star:
 
 ## Important Notes
 
