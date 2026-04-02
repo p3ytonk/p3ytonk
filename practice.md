@@ -36,11 +36,11 @@ You can also check out the contributing guidelines (https://github.com/username/
 
 ## Tasks
 
-- Set up project structure (completed)
-- Write initial documentation (completed)
-- Add unit tests
-- Deploy to production
-- Create tutorial videos
+- [] Set up project structure (completed)
+- [x] Write initial documentation (completed)
+- [] Add unit tests
+- [x] Deploy to production
+- [] Create tutorial videos
 
 ## Emojis
 
