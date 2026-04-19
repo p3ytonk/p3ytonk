@@ -5,19 +5,5 @@ Hello there, my name is Peyton and I was born and raised in Spokane, Washington.
 
 
 ## ☎️ Contact
-[Uploading PeytBEGIN:VCARD
-VERSION:3.0
-FN:Peyton Whiteley
-N:Whiteley;Peyton;;;
-ORG:Eastern Washington University
-TITLE:Student
-EMAIL;TYPE=INTERNET:peytonmwhiteley@gmail.com
-TEL;TYPE=CELL:(509)818.5968
-URL:https://p3ytonk.github.io/p3ytonk/
-X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/peyton-whiteley-49a67729a/
-X-SOCIALPROFILE;TYPE=github:https://github.com/p3ytonk
-X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/pwhiteley.png/
-ADR;TYPE=WORK:;;22411 W Lance Hill Rd;Cheney;;United States
-END:VCARDon_Whiteley.vcf…]()
 
 ## 📌 Links
